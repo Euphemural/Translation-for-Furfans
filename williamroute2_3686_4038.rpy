@@ -128,67 +128,68 @@ translate spanish sw2_e6d4bb1a:
 translate spanish sw2_36d439ad:
 
     # wi "\"Because he hasn’t.\""
-    wi ""
+    wi "Por que nunca lo habia hecho antes."
 
 # game/williamroute2.rpy:3740
 translate spanish sw2_6382e4a6:
 
     # mu "\"There’s a first time for everything.\""
-    mu ""
+    mu "Bueno, siempre hay una primera vez para todo."
 
 # game/williamroute2.rpy:3742
 translate spanish sw2_8b08c077:
 
     # "William laughs."
-    ""
+    "Wiliam se rie."
 
 # game/williamroute2.rpy:3744
 translate spanish sw2_7e703f45:
 
     # wi "\"And there’s also a never.\""
-    wi ""
+    wi "Y hay un nunca."
 
 # game/williamroute2.rpy:3747
 translate spanish sw2_1dd55dac:
 
     # mu "\"I don’t put much stock in nevers.\""
-    mu ""
+    mu "No les doy mucha importancia a los 'nunca'."
 
 # game/williamroute2.rpy:3749
 translate spanish sw2_65b8348d:
 
     # mu "\"It’s just exciting to see you in a different light, is all.\""
-    mu ""
+    mu "Simplemente es emocionante el verte bajo una nueva persectiva."
 
 # game/williamroute2.rpy:3751
 translate spanish sw2_f0057452:
 
     # mu "\"You know. In any other context than when my father is forcing me to run errands for him.\""
-    mu ""
+    mu "Ya sabes. Mientras sea en cualquier otro contexto que no sea cuando mi padre me obliga a hacer recados."
 
 # game/williamroute2.rpy:3753
 translate spanish sw2_d7f88375:
 
     # wi "\"I apologize for that.\""
-    wi ""
+    wi "Mis disculpas por eso."
 
 # game/williamroute2.rpy:3755
 translate spanish sw2_83de9f19:
 
     # wi "\"But I’d rather work with you than deal with him.\""
-    wi ""
+    wi "Pero la verdad prefiero el trabajar contigo que con el."
 
 # game/williamroute2.rpy:3757
 translate spanish sw2_97645f77:
 
     # wi "\"No offense.\""
-    wi ""
+    wi "Sin intenciones de ofender."
 
 # game/williamroute2.rpy:3760
 translate spanish sw2_275ac27e:
 
     # mu "\"None taken.\""
-    mu ""
+    mu "No lo haces."
+#### Duda sobre la tradcuccion de la linea 191, necesario el confirmar.
 
 # game/williamroute2.rpy:3762
 translate spanish sw2_fbbfa703:
