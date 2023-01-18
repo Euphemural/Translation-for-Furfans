@@ -122,7 +122,7 @@ translate spanish sw2_24dd6bbd:
 translate spanish sw2_e6d4bb1a:
 
     # m "\"I haven’t heard you call him by his first name before.\""
-    m ""
+    m "Nunca te había oído llamarle por su primer nombre."
 
 # game/williamroute2.rpy:3737
 translate spanish sw2_36d439ad:
