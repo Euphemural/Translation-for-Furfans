@@ -334,169 +334,170 @@ translate spanish sw2_48e48637:
 translate spanish sw2_0f4891e4:
 
     # m "\"You okay in there?\""
-    m ""
+    m "¿Todo esta bien ahi dentro?"
 
 # game/williamroute2.rpy:3798
 translate spanish sw2_fe35cc3b:
 
     # mu "\"I was too excited to wait to see how this one turned out at home.\""
-    mu ""
+    mu "Estaba demasiado emocionado para ver de una vez la foto como para esperar hasta la casa."
 
 # game/williamroute2.rpy:3799
 translate spanish sw2_9ec5b76b:
 
     # m "\"I can see that.\""
-    m ""
+    m "Puedo ver eso."
 
 # game/williamroute2.rpy:3800
 translate spanish sw2_5fdbc335:
 
     # mu "\"The picture’s done!\""
-    mu ""
+    mu "¡La foto esta lisa!"
 
 # game/williamroute2.rpy:3801
 translate spanish sw2_f0ff9175:
 
     # m "\"Already?\""
-    m ""
+    m "¿Ya?"
 
 # game/williamroute2.rpy:3802
 translate spanish sw2_3ab4ac63:
 
     # mu "\"I bet it came out beautiful.\""
-    mu ""
+    mu "Apuesto que quedo hermoso."
 
 # game/williamroute2.rpy:3803
 translate spanish sw2_eb66787a:
 
     # "He hands the small piece of paper to me."
-    ""
+    "Me entrega el pequeño trozo de papael."
 
 # game/williamroute2.rpy:3809
 translate spanish sw2_37f28771:
 
     # m "\"Fuck.\""
-    m ""
+    m "Mierda."
 
 # game/williamroute2.rpy:3812
 translate spanish sw2_9f32a7ba:
 
     # "Just my luck."
-    ""
+    "Que suerte la mia."
 
 # game/williamroute2.rpy:3813
 translate spanish sw2_f704ab56:
 
     # "It’s too dark to make out anything."
-    ""
+    "Esta demasiado oscuro como para poder ver algo."
 
 # game/williamroute2.rpy:3815
 translate spanish sw2_68047c35:
 
     # "Murdoch dismisses me with a showy little hand gesture and walks back over to Cliff's blanket."
-    ""
+    "Murdoch me despide con un llamativo gesto de la mano y vuelve a acercarse a la manta de Cliff."
 
 # game/williamroute2.rpy:3817
 translate spanish sw2_0677a87a:
 
     # "It doesn’t look like there’s much else we can do today, so we spend the rest of the Sunday relaxing."
-    ""
+    "No parece que haya más cosas que podamos hacer hoy, así que pasamos el resto del domingo descansando."
 
 # game/williamroute2.rpy:3819
 translate spanish sw2_393a2577:
 
     # "I look around and it seems like everybody's had their fun."
-    ""
+    "Miro a mi alrededor y parece que todo el mundo se ha divertido."
 
 # game/williamroute2.rpy:3821
 translate spanish sw2_122c92c1:
 
     # "But I can’t help but feel like most of the day was wasted."
-    ""
+    "Pero soy incapaz de pensar que hemos desperdiciado la mayor parte del dia."
 
 # game/williamroute2.rpy:3823
 translate spanish sw2_fe73eb72:
 
     # "Nik looks like he’s finally eaten enough, resting against a big rock."
-    ""
+    "Parece que al fin Nik ha comido suficiente, ya esta descansando apoyado sobre una gran roca."
 
 # game/williamroute2.rpy:3825
 translate spanish sw2_c2dc8d22:
 
     # "Murdoch is combing the sand out of his tail."
-    ""
+    "Murdoch esta quitando la arena de su cola."
 
 # game/williamroute2.rpy:3827
 translate spanish sw2_b1cf2d03:
 
     # "Cliff is drawing."
-    ""
+    "Cliff esta dibujando."
 
 # game/williamroute2.rpy:3829
 translate spanish sw2_58fd0822:
 
     # "And William is..."
-    ""
+    "Y William esta..."
 
 # game/williamroute2.rpy:3833
 translate spanish sw2_3296a4fc:
 
     # "Well, he’s staring at the water."
-    ""
+    "Bueno, esta mirando el agua."
 
 # game/williamroute2.rpy:3835
 translate spanish sw2_a7483429:
 
     # "Probably stewing about the cave."
-    ""
+    "Probablemnete esta pensando sobre la cueva."
 
 # game/williamroute2.rpy:3837
 translate spanish sw2_bd6d6f03:
 
     # "He does that way too much for somebody his age."
-    ""
+    "Lo hace demasiado para su edad."
 
 # game/williamroute2.rpy:3839
 translate spanish sw2_62f059eb:
 
     # "Makes him seem decades older than he really is."
-    ""
+    "Eso hace que parezca mas grande de lo que realmente es."
+    ### Posible correcion necesaria.
 
 # game/williamroute2.rpy:3841
 translate spanish sw2_4c06defd:
 
     # "So I sit next to him and stare with him."
-    ""
+    "Asi que me siento a su lado y lo miro fijamente."
 
 # game/williamroute2.rpy:3843
 translate spanish sw2_1f526ae4:
 
     # wi "\"And just what are you up to?\""
-    wi ""
+    wi "¿Y que es lo que estas planeando?"
 
 # game/williamroute2.rpy:3845
 translate spanish sw2_a5001697:
 
-    # m "\"Just joining you, I suppose.\""
-    m ""
+    # m "\"Jst joining you, I suppose.\""
+    m "Solo me estoy uniendo a ti, supongo."
 
 # game/williamroute2.rpy:3847
 translate spanish sw2_d6c4a7f9:
 
     # wi "\"Well, I’m just studying the shoreline a bit more, thinking about those tunnels.\""
-    wi ""
+    wi "Bueno, estoy estudiando las orillas un poco mas, y pensandoi sobre estos tuneles."
 
 # game/williamroute2.rpy:3849
 translate spanish sw2_c6bddfc9:
 
     # m "\"I’m just staring at the water.\""
-    m ""
+    m "Y yo solo estoy mirando el agua."
 
 # game/williamroute2.rpy:3851
 translate spanish sw2_04326315:
 
     # "Wondering how many people have died here since the dawn of time."
-    ""
+    "Me pregunto cuanta gente habra muerto aqui desde el principio de los tiempos."
 
 # game/williamroute2.rpy:3853
 translate spanish sw2_a1c5338a:
@@ -1013,3 +1014,9 @@ translate spanish sw2_733de148:
 
     # wi "\"We’re off, then.\""
     wi ""
+
+
+#### Nota para la proxima que traduzca, deberia de u¡hacer un commit cada 100 lineas en vez de hacerlo cada vez que suja
+#### una duda. En serio Allen, si llegara a surgir un error o que ya no puedas seguir en el mismo dispositivo estaras
+#### obligado a tal vez volver a trabajar 500 lineas en vez de solo 100. Sabes perfectamente lo molesto que es eso.
+#### Termina hasta la linea 500 y haz eso por tu propia salud mental.
