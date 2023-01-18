@@ -189,145 +189,146 @@ translate spanish sw2_275ac27e:
 
     # mu "\"None taken.\""
     mu "No lo haces."
-#### Duda sobre la tradcuccion de la linea 191, necesario el confirmar.
+#### Duda sobre la tradcuccion de la linea 191, correccion pendiente.
 
 # game/williamroute2.rpy:3762
 translate spanish sw2_fbbfa703:
 
     # mu "\"That reminds me-- I brought the pin-hole camera.\""
-    mu ""
+    mu "Eso me recuerda... Traje la camara estenopeica"
 
 # game/williamroute2.rpy:3764
 translate spanish sw2_48dbc7c0:
 
     # mu "\"Since this is one of the few times we can gather in the daylight, I want us to take a photograph together.\""
-    mu ""
+    mu "Como es una de las pocas veces que podemos reunirnos a la luz del día, quiero que nos hagamos una foto juntos."
 
 # game/williamroute2.rpy:3767
 translate spanish sw2_e9f35f0e:
 
     # cl "\"Learning the production process of photosensitive paper yesterday was nothing short of fascinating.\""
-    cl ""
+    cl "Ayer aprendi el proceso de producción del papel fotosensible, fue algo fascinante."
 
 # game/williamroute2.rpy:3768
 translate spanish sw2_27c160f3:
 
     # "The fuck is he even saying?"
-    ""
+    "¿De que diablos esta hablando?"
 
 # game/williamroute2.rpy:3769
 translate spanish sw2_dd378096:
 
     # "Thank God I’ll never have to learn any of that."
-    ""
+    "Gracias a Dios nunca tendre que aprender nada de eso."
 
 # game/williamroute2.rpy:3770
 translate spanish sw2_7b60902d:
 
     # m "\"I can take the picture.\""
-    m ""
+    m "Yo puedo tomar la foto"
 
 # game/williamroute2.rpy:3771
 translate spanish sw2_434575d4:
 
     # "Because taking the picture means you never have to be in the picture."
-    ""
+    "Por que hacerlo significa que nunca tienes que salir en esta."
 
 # game/williamroute2.rpy:3772
 translate spanish sw2_47647704:
 
     # m "\"How does this thing work?\""
-    m ""
+    m "¿Como funciona esta cosa?"
 
 # game/williamroute2.rpy:3773
 translate spanish sw2_35d8eac5:
 
     # "I pick up the weird, wooden box which feels heavier than it should be."
-    ""
+    "Levanto la extraña caja de madera, que pesa de lo que aparenta."
 
 # game/williamroute2.rpy:3775
 translate spanish sw2_6d0773b6:
 
     # mu "\"Make sure you angle it carefully so your face isn’t in the shot.\""
-    mu ""
+    mu "Asegurate de enfocarlo con cuidado para que tu rostro no aparezaca."
 
 # game/williamroute2.rpy:3776
 translate spanish sw2_a7f00b9a:
 
     # "I don’t know what that means, but alright."
-    ""
+    "No se a que se refiere, pero esta bien."
 
 # game/williamroute2.rpy:3778
 translate spanish sw2_f217b416:
 
     # mu "\"Rest the camera against that rock wall and open the slat for about thirty seconds.\""
-    mu ""
+    mu "Apoya la camara contra esta pared de roca y abre la tablilla de madera durante unos treinta segundos."
 
 # game/williamroute2.rpy:3780
 translate spanish sw2_87f1b9d7:
 
     # m "\"And then?\""
-    m ""
+    m "¿Y que mas?"
 
 # game/williamroute2.rpy:3781
 translate spanish sw2_39e2f6ec:
 
     # "Oh right."
-    ""
+    "Oh cierto."
 
 # game/williamroute2.rpy:3782
 translate spanish sw2_eb4d20a6:
 
     # "He can’t answer me for thirty seconds."
-    ""
+    "No puede contestarme en esos treinta segundos."
 
 # game/williamroute2.rpy:3783
 translate spanish sw2_f8cbe514:
 
     # "Ha!"
-    ""
+    "¡Ha!"
 
 # game/williamroute2.rpy:3784
 translate spanish sw2_6e8188ec:
 
     # m "\"Now then?\""
-    m ""
+    m "¿Y ahora?"
 
 # game/williamroute2.rpy:3786
 translate spanish sw2_ab97cf16:
 
     # mu "\"Close the slat and hand me the pinhole camera.\""
-    mu ""
+    mu "Cierra la tablilla y pásame la cámara estenopeica."
 
 # game/williamroute2.rpy:3788
 translate spanish sw2_56be499c:
 
     # "Easy."
-    ""
+    "Facil."
 
 # game/williamroute2.rpy:3789
 translate spanish sw2_ab96271a:
 
     # m "\"Here you go.\""
-    m ""
+    m "Aqui tienes."
 
 # game/williamroute2.rpy:3794
 translate spanish sw2_ab27afd8:
 
     # "The fox pulls out a black canvas cloth and what looks like a heavy metal box full of liquid."
-    ""
+    "El zorro saca una tela de lona negra y lo que parece una pesada caja metálica llena de líquido."
 
 # game/williamroute2.rpy:3795
 translate spanish sw2_f234a1d0:
 
     # "I hand him the box, and then he goes inside of it."
-    ""
+    "Le entrego la caja y el lo mete adentro."
+### Duda sobre la tradcuccion de la linea 324, correccion pendiente.
 
 # game/williamroute2.rpy:3796
 translate spanish sw2_48e48637:
 
     # "It looks real stupid."
-    ""
+    "Parece una verdadera estupidez."
 
 # game/williamroute2.rpy:3797
 translate spanish sw2_0f4891e4:
