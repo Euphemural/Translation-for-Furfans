@@ -707,109 +707,109 @@ translate spanish sw2_b38fbd0b:
 translate spanish sw2_00d96207:
 
     # wi "\"But all you have to avoid there is upsetting the wrong people, and then you can do whatever the hell you want.\""
-    wi ""
+    wi "Lo unico que tienes que hacer es ecitar molestar a la gente equivocada, fuera de eso puedes hacer lo que tu quieras."
 
 # game/williamroute2.rpy:3923
 translate spanish sw2_fc442cb7:
 
     # m "\"Bitter much?\""
-    m ""
+    m "¿Demasiado amargado?"
 
 # game/williamroute2.rpy:3925
 translate spanish sw2_8b717e2a:
 
     # wi "\"Look who’s talking.\""
-    wi ""
+    wi "Mira quien habla."
 
 # game/williamroute2.rpy:3926
 translate spanish sw2_782611b8:
 
     # m "\"It’s just...\""
-    m ""
+    m "Solo digo..."
 
 # game/williamroute2.rpy:3927
 translate spanish sw2_3e9ab0cf:
 
     # m "\"All I’m saying is that maybe something a little more exciting would be good for me.\""
-    m ""
+    m "Que tal vez algo un poco mas emocionante seria bueno para mi"
 
 # game/williamroute2.rpy:3928
 translate spanish sw2_4e49f35c:
 
     # m "\"The good kind of exciting.\""
-    m ""
+    m "El buen tipo de emocion."
 
 # game/williamroute2.rpy:3929
 translate spanish sw2_8bfc3bb4:
 
     # m "\"The kind that keeps you busy.\""
-    m ""
+    m "Del tipo que te mantiene ocupado."
 
 # game/williamroute2.rpy:3931
 translate spanish sw2_1b8b28a5:
 
     # m "\"Don’t you miss that?\""
-    m ""
+    m "¿No extrañas eso?"
 
 # game/williamroute2.rpy:3932
 translate spanish sw2_d5d812fc:
 
     # "I take a look at that murky water again and it seems just a little more stagnant."
-    ""
+    "Vuelvo a mirar esta agua turbia y parece mas estancada."
 
 # game/williamroute2.rpy:3934
 translate spanish sw2_4b49bc1a:
 
     # wi "\"I miss a lot of things, Sam.\""
-    wi ""
+    wi "Echo de menos muchas cosas Sam."
 
 # game/williamroute2.rpy:3936
 translate spanish sw2_2a4c0fa7:
 
     # wi "\"But some of the days l miss look an awful lot like this one. \""
-    wi ""
+    wi "Pero algunos de los dias que mas extraño son muy parecidos a estos."
 
 # game/williamroute2.rpy:3938
 translate spanish sw2_b1b6e55e:
 
     # "It sounds like he’s about to say something else, but then he doesn’t."
-    ""
+    "Preciera que esta al punto de decir algo mas pero al final no dice nada."
 
 # game/williamroute2.rpy:3940
 translate spanish sw2_a0dd3e74:
 
     # wi "\"...but in all seriousness, Sam, it’s time to head back to the station.\""
-    wi ""
+    wi "...pero ya mas en serio Sam, es hora de regresar a la estacion."
 
 # game/williamroute2.rpy:3942
 translate spanish sw2_8a0e8f4c:
 
     # wi "\"Today went nowhere, so I want a fresh and early start tomorrow.\""
-    wi ""
+    wi "Hoy no he ido a ninguna parte asi que quiero poder empezar mañana temprano."
 
 # game/williamroute2.rpy:3944
 translate spanish sw2_f9dac9ce:
 
     # m "\"So let's go, then.\""
-    m ""
+    m "Vamonos entonces."
 
 # game/williamroute2.rpy:3945
 translate spanish sw2_005a0125:
 
     # "The big coyote puts his hands together, getting ready to shout."
-    ""
+    "El gran collote junta sus manos y se prepara para gritar."
 
 # game/williamroute2.rpy:3947
 translate spanish sw2_3a2a4faf:
 
     # wi "\"Up and at ‘em boys, me and Sam are goin’.\""
-    wi ""
+    wi "Arriba y a por ellos chicos, Sam y nos vamos."
 
 # game/williamroute2.rpy:3950
 translate spanish sw2_32f59c13:
 
     # "Nik sits up, dusting off his jeans as he rises."
-    ""
+    "Nik se sienta y se quita el polvo de los vaqueros."
 
 # game/williamroute2.rpy:3952
 translate spanish sw2_92706382:
