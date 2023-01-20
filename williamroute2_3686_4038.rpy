@@ -503,103 +503,103 @@ translate spanish sw2_04326315:
 translate spanish sw2_a1c5338a:
 
     # wi "\"Thinkin’ about wet things again?\""
-    wi ""
+    wi "¿Otra vez pensando en cosas humedas?"
 
 # game/williamroute2.rpy:3855
 translate spanish sw2_f493a70e:
 
     # "I feel my eyes flutter from the audacity of that comment."
-    ""
+    "Abro con fuerza mis ojos por la audacia del comentario."
 
 # game/williamroute2.rpy:3857
 translate spanish sw2_ec5c993e:
 
     # "My ears are twitching now..."
-    ""
+    "Incluso mis orejas empezan a temblar..."
 
 # game/williamroute2.rpy:3858
 translate spanish sw2_9b7f6090:
 
     # "Kind of pissed off how funny that was for something so rude."
-    ""
+    "Algo molesto de lo gracioso que era para algo tan grosero."
 
 # game/williamroute2.rpy:3860
 translate spanish sw2_bdc4160f:
 
     # m "\"Lots of things are wet, William.\""
-    m ""
+    m "Hay muchas cosas que estan mojadas, William."
 
 # game/williamroute2.rpy:3862
 translate spanish sw2_401552ed:
 
     # "He gives me another look."
-    ""
+    "Me lanza otra mirada."
 
 # game/williamroute2.rpy:3864
 translate spanish sw2_e42a690a:
 
     # "Christ’s sake, he’s not gonna drop it, is he?"
-    ""
+    "Por el amor de Dios, no lo va soltar, verdad? "
 
 # game/williamroute2.rpy:3866
 translate spanish sw2_7e613245:
 
     # wi "\"So you’ve been working non-stop.\""
-    wi ""
+    wi "¿Asi que haz estado trabajando sin cesar?"
 
 # game/williamroute2.rpy:3868
 translate spanish sw2_1a410ad4:
 
     # "Don’t laugh, damn it."
-    ""
+    "No te rias, maltida sea."
 
 # game/williamroute2.rpy:3870
 translate spanish sw2_07d6e062:
 
     # m "\"Not here, William.\""
-    m ""
+    m "No aqui William."
 
 # game/williamroute2.rpy:3872
 translate spanish sw2_e41cce35:
 
     # wi "\"There we go.\""
-    wi ""
+    wi "Vayamos para alla."
 
 # game/williamroute2.rpy:3874
 translate spanish sw2_6dc71d82:
 
     # m "\"Why are you doing this right now?\""
-    m ""
+    m "¿Por que estas haciendo esto?"
 
 # game/williamroute2.rpy:3876
 translate spanish sw2_88c99fa7:
 
     # wi "\"Because I like it when you laugh.\""
-    wi ""
+    wi "Por que me gusta cuando te ries."
 
 # game/williamroute2.rpy:3879
 translate spanish sw2_d9dd50cc:
 
     # wi "\"You come back to life when you do.\""
-    wi ""
+    wi "Es como si volvieras a la vida cuando lo haces."
 
 # game/williamroute2.rpy:3881
 translate spanish sw2_382740c5:
 
     # "That’s..."
-    ""
+    "Eso es..."
 
 # game/williamroute2.rpy:3883
 translate spanish sw2_73583a0a:
 
     # "Strangely sweet."
-    ""
+    "Estrañamente dulce."
 
 # game/williamroute2.rpy:3885
 translate spanish sw2_597c26cc:
 
     # "Therefore, I don’t entirely trust it."
-    ""
+    "Por lo tanto, no me fio del todo."
 
 # game/williamroute2.rpy:3887
 translate spanish sw2_52d10123:
