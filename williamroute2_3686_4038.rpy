@@ -605,103 +605,103 @@ translate spanish sw2_597c26cc:
 translate spanish sw2_52d10123:
 
     # m "\"Keep that up and you two will start to have more in common.\""
-    m ""
+    m "Si sigues ustedes dos empezaran a tener mas y mas en comun. "
 
 # game/williamroute2.rpy:3889
 translate spanish sw2_412507ab:
 
     # wi "\"Who?\""
-    wi ""
+    wi "¿Quien?"
 
 # game/williamroute2.rpy:3891
 translate spanish sw2_da95880a:
 
     # "I tilted my head and looked past his shoulder."
-    ""
+    "Ladeo un poco mi cabeza y miro por encima de mi hombro"
 
 # game/williamroute2.rpy:3893
 translate spanish sw2_78094081:
 
     # "I glanced in the direction of Mr. Tibbits again, who’s squinting at his book and framing a landscape with his stubby little digits."
-    ""
+    "Miro de nuevo en direccion del señor Tibbits, que esta con los ojos entrecerados sobre su libro y que esta enmarcando un paisaje con sus pequeños y rechonchos dedos. "
 
 # game/williamroute2.rpy:3896
 translate spanish sw2_366baa15:
 
     # "That wipes the smile off of his face."
-    ""
+    "Ese cdomentario borra su sonrisa de la cara. "
 
 # game/williamroute2.rpy:3898
 translate spanish sw2_0618ef98:
 
     # wi "\"Hardly.\""
-    wi ""
+    wi "Apenas."
 
 # game/williamroute2.rpy:3900
 translate spanish sw2_f3795a8c:
 
     # "I feel myself smirking now."
-    ""
+    "Siento que estoy empezando a sonreir."
 
 # game/williamroute2.rpy:3902
 translate spanish sw2_7ea7a7ad:
 
     # m "\"You’re so sure?\""
-    m ""
+    m "¿Estas tan seguro?"
 
 # game/williamroute2.rpy:3904
 translate spanish sw2_e609d78c:
 
     # "He pinches the bridge of his snout."
-    ""
+    "Se pellizca el puente de su hocico."
 
 # game/williamroute2.rpy:3906
 translate spanish sw2_f82c51a3:
 
     # wi "\"Yes.\""
-    wi ""
+    wi "Si."
 
 # game/williamroute2.rpy:3909
 translate spanish sw2_9018f488:
 
     # wi "\"I’d never put you and everybody else in danger like that.\""
-    wi ""
+    wi "Yo jamas te pondria a ti y los chicos en una situacion como esta."
 
 # game/williamroute2.rpy:3911
 translate spanish sw2_16322b3a:
 
     # wi "\"...people like us, I mean.\""
-    wi ""
+    wi "...a gente como nostros me refiero."
 
 # game/williamroute2.rpy:3912
 translate spanish sw2_ea8bcc96:
 
     # "I shrug at him."
-    ""
+    "Solo me encojo de hombros."
 
 # game/williamroute2.rpy:3913
 translate spanish sw2_78a4b356:
 
     # m "\"People like us always end up in danger anyhow, don’t we?\""
-    m ""
+    m "Gente como nosotros siempre esta en peligro, ¿no crees?"
 
 # game/williamroute2.rpy:3915
 translate spanish sw2_0eb2ab17:
 
     # wi "\"Well that’s what’s nice about the West, Sam--everybody gets to be in danger all of the time.\""
-    wi ""
+    wi "Bueno, esa es una ventaja del Oeste Sam... Todo el mundo siempre esta en peligro, todo el tiempo."
 
 # game/williamroute2.rpy:3917
 translate spanish sw2_e5e65a33:
 
     # m "\"Yet you keep saying the Windy City is more exciting.\""
-    m ""
+    m "Y aun asi sigues diciendo que Windy City es mas emocionante."
 
 # game/williamroute2.rpy:3919
 translate spanish sw2_b38fbd0b:
 
     # wi "\"Well, sure.\""
-    wi ""
+    wi "Bueno, eso es seguro.."
 
 # game/williamroute2.rpy:3921
 translate spanish sw2_00d96207:
