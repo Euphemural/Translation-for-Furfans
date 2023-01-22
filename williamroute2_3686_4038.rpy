@@ -815,91 +815,92 @@ translate spanish sw2_32f59c13:
 translate spanish sw2_92706382:
 
     # ni "\"Well, this was nice while it lasted.\""
-    ni ""
+    ni "Bueno, eso fue bonito mientras duro."
 
 # game/williamroute2.rpy:3954
 translate spanish sw2_ece73568:
 
     # "He looks at me, then looks away."
-    ""
+    "El me mira para despues desviar la mirada."
 
 # game/williamroute2.rpy:3955
 translate spanish sw2_db8c7722:
 
     # "I guess he’s still upset with me."
-    ""
+    "Supongo que aun sigue molesto conmigo."
 
 # game/williamroute2.rpy:3957
 translate spanish sw2_db232bd8:
 
     # "His gaze shifts to Will again."
-    ""
+    "Su mirada se dirige de nuevo hacia Will."
 
 # game/williamroute2.rpy:3959
 translate spanish sw2_79a94c81:
 
     # ni "\"Mr. Tibbits should sleep at the station if he’s still a target, correct?\""
-    ni ""
+    ni "El señor Tbbits dormira en la estacion si sigue siendo un objetivo, ¿verdad?"
 
 # game/williamroute2.rpy:3961
 translate spanish sw2_bedd6a15:
 
     # m "\"Yeah, Will.\""
-    m ""
+    m "Si, Will."
 
 # game/williamroute2.rpy:3962
 translate spanish sw2_8cb93cc2:
 
     # m "\"This way you can keep an eye on him at all times.\""
-    m ""
+    m "De esa forma puedes vigilarlo en todo momento."
 
 # game/williamroute2.rpy:3964
 translate spanish sw2_79477488:
 
     # "William crosses his arms."
-    ""
+    "William se cruza de brazos."
 
 # game/williamroute2.rpy:3966
 translate spanish sw2_8b9f82d9:
 
     # wi "\"If he needs the assistance then he’s welcome for the night.\""
-    wi ""
+    wi "Si necesita ayuda sera bienvenido por esta noche."
 
 # game/williamroute2.rpy:3969
 translate spanish sw2_4a942b56:
 
     # "The weasel holds up his paw."
-    ""
+    "La comadreja levanta su pata."
 
 # game/williamroute2.rpy:3971
 translate spanish sw2_402935d4:
 
     # cl "\"Now now, enough doting.\""
-    cl ""
+    cl "Basta de adulacion."
 
 # game/williamroute2.rpy:3974
 translate spanish sw2_bb516f02:
 
     # cl "\"I can handle myself fine, thank you. And, I live close enough to the station that it would make little difference whether I spent the night there or not.\""
-    cl ""
+    cl "Se cuidarme bien, muchas gracias. Y vivo lo bastante cerca de la estacion asi que hay poca diferencia si paso ahi la noche o no.."
 
 # game/williamroute2.rpy:3978
 translate spanish sw2_e4ce88ff:
 
     # mu "\"Plus, I don’t mind watching over him tonight.\""
-    mu ""
+    mu "Ademas, no me importa el vigilarlo por esta noche."
 
 # game/williamroute2.rpy:3983
 translate spanish sw2_bc4ba57b:
 
     # cl "\"More like I’m watching over you.\""
-    cl ""
+    cl "Mas te estare vigilando a ti."
 
 # game/williamroute2.rpy:3988
 translate spanish sw2_49ae0bf7:
 
     # cl "\"Grazed or no, with that wound you’re still a proper invalid.\""
-    cl ""
+    cl "Rosado o no, con esta herido estas descapacitado por el momento."
+### Duda sobre la traduccion de la linea 902
 
 # game/williamroute2.rpy:3993
 translate spanish sw2_2da0b20e:
@@ -1016,7 +1017,7 @@ translate spanish sw2_733de148:
     wi ""
 
 
-#### Nota para la proxima que traduzca, deberia de u¡hacer un commit cada 100 lineas en vez de hacerlo cada vez que suja
+#### Nota para la proxima que traduzca, deberia de hacer un commit cada 100 lineas en vez de hacerlo cada vez que surja
 #### una duda. En serio Allen, si llegara a surgir un error o que ya no puedas seguir en el mismo dispositivo estaras
 #### obligado a tal vez volver a trabajar 500 lineas en vez de solo 100. Sabes perfectamente lo molesto que es eso.
 #### Termina hasta la linea 500 y haz eso por tu propia salud mental.
