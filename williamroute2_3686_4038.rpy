@@ -899,122 +899,124 @@ translate spanish sw2_bc4ba57b:
 translate spanish sw2_49ae0bf7:
 
     # cl "\"Grazed or no, with that wound you’re still a proper invalid.\""
-    cl "Rosado o no, con esta herido estas descapacitado por el momento."
+    cl "Con o sin quemadura, estas descapacitado por el momento."
 ### Duda sobre la traduccion de la linea 902
 
 # game/williamroute2.rpy:3993
 translate spanish sw2_2da0b20e:
 
     # "These two are getting, uh, awfully chatty with one another."
-    ""
+    "Estos dos se estan volviendo... Bastante habladores entre ellos."
 
 # game/williamroute2.rpy:3996
 translate spanish sw2_6d87fc7c:
 
     # mu "\"Sounds like you just volunteered to change my bandages then.\""
-    mu ""
+    mu "Parece que te haz ofrecido voluntario pra cambiar mis vendas."
 
 # game/williamroute2.rpy:3998
 translate spanish sw2_e31f0040:
 
     # cl "\"Professional fencers are no strangers to blood and nicks, you know.\""
-    cl ""
+    cl "Los tiradores profesionales no somos ajenos a la sangre y todo eso, ya sabes."
+### Verificar la traduccion de la linea 921
 
 # game/williamroute2.rpy:4005
 translate spanish sw2_4afebf2d:
 
     # "Nik put his hand on Will’s shoulder."
-    ""
+    "Nik pone su manos sobre el hombro de Will."
 
 # game/williamroute2.rpy:4007
 translate spanish sw2_056f18f1:
 
     # ni "\"Do not be discouraged by today.\""
-    ni ""
+    ni "No te desanimes por este dia."
 
 # game/williamroute2.rpy:4010
 translate spanish sw2_c2b3f62a:
 
     # ni "\"You work hard.\""
-    ni ""
+    ni "Trabajas duro."
 
 # game/williamroute2.rpy:4012
 translate spanish sw2_d3a190c1:
 
     # ni "\"But sometimes our heads work harder against us.\""
-    ni ""
+    ni "Pero a veces nuestras mentes trabajan en nuestra contra."
 
 # game/williamroute2.rpy:4014
 translate spanish sw2_aeb5c670:
 
     # ni "\"Useful lesson, no?\""
-    ni ""
+    ni "Una leccion util, ¿no?"
 
 # game/williamroute2.rpy:4017
 translate spanish sw2_679d3bb1:
 
     # "Something like a look of realization spread across Will’s face."
-    ""
+    "Algo parecido a una mueca de comprension se extende por el rostro de Will."
 
 # game/williamroute2.rpy:4019
 translate spanish sw2_13a0f0ec:
 
     # wi "\"Shoot.\""
-    wi ""
+    wi "Disparando."
 
 # game/williamroute2.rpy:4021
 translate spanish sw2_76715582:
 
     # wi "\"Speaking of hard work... I won’t be able to see you until the weekend, won’t I Nik?\""
-    wi ""
+    wi "Hablando de trabajo duro... No podre verte hasta el fin de semana, verdad ¿Nik?"
 
 # game/williamroute2.rpy:4024
 translate spanish sw2_a67255e0:
 
     # ni "\"Likely no. Unless you can make use of me after 7 pm and before 11.\""
-    ni ""
+    ni "Probablemente no. A menos que me vengas a ver despues de las 7 pm y antes de las 11."
+###Duda con la traduccion de la linea 977
 
 # game/williamroute2.rpy:4026
 translate spanish sw2_5effdacb:
 
     # ni "\"Until later, Will.\""
-    ni ""
+    ni "Nos vemos Will."
 
 # game/williamroute2.rpy:4028
 translate spanish sw2_170da6dc:
 
     # "He turns and looks me over."
-    ""
+    "Se voltea y me mira."
 
 # game/williamroute2.rpy:4030
 translate spanish sw2_38bbe2c1:
 
     # ni "\"Samuel.\""
-    ni ""
+    ni "Samuel."
 
 # game/williamroute2.rpy:4032
 translate spanish sw2_8e9fd0fb:
 
     # "His voice is a bit stern with me."
-    ""
+    "Su voz es mas severa conmigo."
 
 # game/williamroute2.rpy:4034
 translate spanish sw2_bb977011:
 
     # "But at least he’s talking to me, I suppose."
-    ""
+    "Pero al menos esta hablando conmigo, supongo."
 
 # game/williamroute2.rpy:4035
 translate spanish sw2_9458d17a:
 
     # m "\"...Yeah. Later.\""
-    m ""
+    m "...si. Hasta luego."
 
 # game/williamroute2.rpy:4038
 translate spanish sw2_733de148:
 
     # wi "\"We’re off, then.\""
-    wi ""
+    wi "Nos vemos entonces."
 
 
 #### Nota para la proxima que traduzca, deberia de hacer un commit cada 100 lineas en vez de hacerlo cada vez que surja
